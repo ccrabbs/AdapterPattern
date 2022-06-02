@@ -1,0 +1,2 @@
+# AdapterPattern
+AdapterPattern in C#
